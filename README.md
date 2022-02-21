@@ -1,3 +1,7 @@
 # comandos_linux
-| Comando| Descripción | Ejemplo de uso |
-| ------------- | ------------- |
+
+| Comando | Descripción | Ejemplo de uso |
+| ------------- | ------------- | ------------- |
+|                        |                        |               |
+|                        |                        |               |
+|                        |                        |               |
