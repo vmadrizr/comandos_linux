@@ -10,7 +10,7 @@
 | mv   |  su uso principal es mover archivos o  cambiar el nombre de los archivos |   mv imagen.jpg /home/folder2 -- mv nombreviejo.ext nombrenuevo.ext |
 | mkdir | crea un nuevo directorio  | mkdir peliculas      |
 | rm   |   se usa para elminar directorios y el contenido dentro de ellos  |  rm -r elmina el directorio          |
-| touch |  permite crear un nuevo archivo en blanco.     |                          |  touch archivo1 | 
+| touch |  permite crear un nuevo archivo en blanco.     |  touch archivo1 | 
 | sudo  |  permite realizar tareas que requieren permisos administrativos o raíz    |   sudo nano /etc/hosts/                       |
 | top                       |  mostrará una lista de los procesos en ejecución y la cantidad de CPU que utiliza cada proceso   |   $ sudo top                       |
 | history         |   lista los comandos que ingresados anteriormente                                        |    $ history  grep update                     |
