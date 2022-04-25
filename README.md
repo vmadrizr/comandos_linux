@@ -12,6 +12,6 @@
 | rm   |   se usa para elminar directorios y el contenido dentro de ellos  |  rm -r elmina el directorio          |
 | touch |  permite crear un nuevo archivo en blanco.     |                          |
 | sudo  |  permite realizar tareas que requieren permisos administrativos o raíz    |                          |
-|                        |                                          |                          |
+| top                       |  mostrará una lista de los procesos en ejecución y la cantidad de CPU que utiliza cada proceso                                        |                          |
 |                        |                                          |                          |
 |                        |                                          |                          |
