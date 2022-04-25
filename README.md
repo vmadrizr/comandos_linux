@@ -21,12 +21,12 @@
 | file       |  permite detectar el tipo y formato de un archivo   |                          |
 | chown       | Es una abreviatura del 'Change owner',se utiliza en los sistemas operativos Unix y Unix-like para cambiar el propietario de archivos del sistema de archivos, directorios  |  sudo chown solvetic ./Solvetic3/       |
 |  chmod      | permite cambiar o transferir la propiedad de un archivo al nombre de usuario especificado  |  $chmod  700 /user              |
-| df     | es muy útil cuando necesitamos ver el espacio de disco disponible en cada una de las particiones de su sistema.   |      |  
+| df     | es muy útil cuando necesitamos ver el espacio de disco disponible en cada una de las particiones de su sistema.   |   $ df -Th   |  
 | kill -9        | si se tiene un programa que no responde, se puede cerrar manualmente utilizando el comando kill  |                          |
-| ps       |  es un comando que permite visualizar el estado de un Proceso. |                          |
+| ps       |  es un comando que permite visualizar el estado de un Proceso. |  $ ps -e                        |
 | du       | permite verificar cuánto espacio ocupa un archivo o un directorio. |                          |
 | ping       | verifica el estado de conectividad a un servidor. |     ping 192.10.11.3                    |
-| uname       |  imprimirá información detallada sobre el sistema Linux, como el nombre de la máquina, el sistema operativo, el núcleo, etc.  |               |
+| uname       |  imprimirá información detallada sobre el sistema Linux, como el nombre de la máquina, el sistema operativo, el núcleo, etc.  | $ uname _ a              |
 | man    |  muestra el manual de un comando.   |  $ man free                        |
 | echo        | se imprimen en la salida estándar. echo se usa comúnmente en scripts de shell para mostrar un mensaje o generar los resultados de otros comandos. | echo "Mi nombre es Viviana"   |
 
