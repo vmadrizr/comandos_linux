@@ -17,7 +17,7 @@
 | clear  |   utilizado para limpiar la línea de comandos       |  $ clear                        |
 | htop       | usado para monitorear los recursos vitales del sistema o los procesos en tiempo real.    |                          |
 | su        |  se usa para obtener permisos de root para operaciones administrativas.   |  $ sudo su                        |
-| stat       |  muestra información detallada sobre archivos o sistemas de archivos determinados    |                          |
+| stat       |  muestra información detallada sobre archivos o sistemas de archivos determinados    |   $ stat informacion.txt              |
 | file       |  permite detectar el tipo y formato de un archivo   |                          |
 | chown       | Es una abreviatura del 'Change owner',se utiliza en los sistemas operativos Unix y Unix-like para cambiar el propietario de archivos del sistema de archivos, directorios  |  sudo chown solvetic ./Solvetic3/       |
 |  chmod      | permite cambiar o transferir la propiedad de un archivo al nombre de usuario especificado  |  $chmod  700 /user              |
