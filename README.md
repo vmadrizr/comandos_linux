@@ -10,7 +10,7 @@
 | mv   |  su uso principal es mover archivos o  cambiar el nombre de los archivos |   mv imagen.jpg /home/folder2 -- mv nombreviejo.ext nombrenuevo.ext |
 | mkdir | crea un nuevo directorio  | mkdir peliculas      |
 | rm   |   se usa para elminar directorios y el contenido dentro de ellos  |  rm -r elmina el directorio          |
-| touch |  permite crear un nuevo archivo en blanco.     |                          |  touch archivo1
+| touch |  permite crear un nuevo archivo en blanco.     |                          |  touch archivo1 | 
 | sudo  |  permite realizar tareas que requieren permisos administrativos o raíz    |   sudo nano /etc/hosts/                       |
 | top                       |  mostrará una lista de los procesos en ejecución y la cantidad de CPU que utiliza cada proceso   |   $ sudo top                       |
 | history         |   lista los comandos que ingresados anteriormente                                        |    $ history  grep update                     |
@@ -24,7 +24,7 @@
 | df     | es muy útil cuando necesitamos ver el espacio de disco disponible en cada una de las particiones de su sistema.   |   $ df -Th   |  
 | kill -9        | si se tiene un programa que no responde, se puede cerrar manualmente utilizando el comando kill  |                          |
 | ps       |  es un comando que permite visualizar el estado de un Proceso. |  $ ps -e                        |
-| du       | permite verificar cuánto espacio ocupa un archivo o un directorio. |                          |
+| du       | permite verificar cuánto espacio ocupa un archivo o un directorio. |  $ du -sh *                        |
 | ping       | verifica el estado de conectividad a un servidor. |     ping 192.10.11.3                    |
 | uname       |  imprimirá información detallada sobre el sistema Linux, como el nombre de la máquina, el sistema operativo, el núcleo, etc.  | $ uname _ a              |
 | man    |  muestra el manual de un comando.   |  $ man free                        |
